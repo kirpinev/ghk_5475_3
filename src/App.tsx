@@ -413,7 +413,7 @@ export const App = () => {
               style={{ color: "gray" }}
               className={appSt.productText}
             >
-              Выплаты до {toggle ? "430 000" : "270 000"} ₽
+              Выплаты до {toggle ? "270 000" : "270 000"} ₽
             </Typography.Text>
           </div>
           <img src={arrow} alt="" height={65} />
